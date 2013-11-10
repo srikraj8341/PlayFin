@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlayFin</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete_dog_message">Are you sure you want to delete the selected dog? This can\'t be undone.</string>
+    <string name="delete_photo_message">Are you sure you want to delete the selected photo? This can\'t be undone.</string>
+    <string name="delete_video_message">Are you sure you want to delete the selected video? This can\'t be undone.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="getstarted">Get Started</string>
+    <string name="signin">Sign In</string>
+    <string name="dogalizeaccount">Create PlayFin Account</string>
+    <string name="existingdogalizeaccount">Existing PlayFin Account</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="verifypassword">Verify Password</string>
+    <string name="login">Login</string>
+    <string name="fblogin">Sign In With Facebook</string>
+    <string name="signup">Sign Up</string>
+    <string name="fb_sign_up">Sign Up With Facebook</string>
+    <string name="dogalize_settings">Dogalize Settings</string>
+    <string name="dogalize_add_friends">Invite Friends</string>
+    <string name="content_new_event">Content New</string>
+    <string name="done">Done</string>
+    <string name="edit_content">Edit</string>
+    <string name="title_activity_home">PlayFin</string>
+    <string name="title_activity_dogalize_login">PlayFin Login</string>
+    <string name="title_activity_dogalize__sign__up_">PlayFin Sign Up</string>
+    <string name="title_activity_dogalize_friends">Chat List</string>
+    <string name="title_activity_commando_kennels">Kennels</string>
+    <string name="title_activity_dogs">Kennels</string>
+    <string name="title_activity_check_in_facebook_status">Check In</string>
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="title_activity_update_status">Update Status</string>
+    <string name="title_activity_add_dog">Add Dog</string>
+    <string name="title_activity_invite_friends">Friends</string>
+    <string name="fb">Facebook</string>
+    <string name="hint">Enter name,email or phone number</string>
+    <string name="version_title">Dogalize App Version 1.0</string>
+    <string name="video_call">Video Call</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="message">Message</string>
+    <string name="kennels_details">Details</string>
+    <string name="kennels_dogs">Dogs</string>
+    <string name="breedname">Breed name,\nother info</string>
+    <string name="info">Info</string>
+    <string name="photos">Photos</string>
+    <string name="about">About</string>
+    <string name="posts">Posts</string>
+    <string name="videos">Videos</string>
+    <string name="search_place">Search for place</string>
+    <string name="chat_empty_list">Chat Empty List</string>
+    <string name="hint_status">What are you up to?</string>
+    <string name="hint_update">What\'s on your mind!</string>
+    <string name="hint_with_friends_status">With Friends+</string>
+    <string name="fb_share">Facebook share</string>
+    <string name="checkin_here">Check In Here</string>
+    <string name="update_status">Update Status</string>
+    <string name="select_image_source_type">Select Image Source</string>
+    <string name="select_camera">Camera</string>
+    <string name="select_gallery">Gallery</string>
+    <string name="select_video">Video</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">Welcome to</string>
+    <string name="share">Share</string>
+    <string name="sort_by">Sort By</string>
+    <string name="ok">OK</string>
+    <string name="signingin">Signing you in &#8230;One moment</string>
+    <string name="checkin">CheckIn</string>
+    <string name="add_dog_name">Name</string>
+    <string name="add_dog_breed_name">Breed</string>
+    <string name="add_dog_character">Character</string>
+    <string name="add_dog_category">Category</string>
+    <string name="add_dog_additional_info">Additional Info</string>
+    <string name="add_dog_dob">Date of Birth</string>
+    <string name="action_add_dog_save">Save</string>
+    <string name="add_dog">Add New Dog</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="add_video">Add Video</string>
+    <string name="user_videos">User Videos</string>
+    <string name="user_photos">User Photos</string>
+    <string name="invitefbfriends">Invite Facebook Friends</string>
+    <string name="emailtxt">Email</string>
+    <string name="emailhint">xyz@gmail.com</string>
+    <string name="city">City</string>
+    <string name="cityname">City Name</string>
+    <string name="state">State</string>
+    <string name="statename">State Name</string>
+    <string name="no_of_photos">25 Photos</string>
+    <string name="no_of_videos">12 Videos</string>
+    <string name="save_user">Save</string>
+    <string name="cancel_user">Cancel</string>
+    <string name="more_then_tenmb">File size should not exceed 10 MB</string>
+    <string name="oops">Oops!</string>
+    <string name="no_user_photos">No photos found, Please click edit button and add photos.</string>
+    <string name="no_user_videos">No videos found, Please click edit button and add videos.</string>
+    <string name="no_user_dogs">No dogs found, Please click add dog button</string>
+    <string name="no_user_dog_photos">No dog photos found, Please click edit button and add photos.</string>
+    <string name="no_user_dog_videos">No dog videos found, Please click edit button and add videos.</string>
+    <!-- Facebook KEYS -->
+    <string name="app_id">560751523978094</string>
+    <string name="attachment_failed"> Oops! Something went wrong. Attachment upload failed. please try again.</string>
+    <string name="server_not_reponding"> Server not responding..</string>
+    <string name="breed">Breed</string>
+    <string name="character">Character</string>
+    <string name="add_dog_photo">Add Photo</string>
+    <string name="add_dog_video">Add Video</string>
+    <!-- 560751523978094 -->
+    <!-- Sreekant FB ID : 586282361438620 -->
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+     <string-array name="types">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Professional</item>
+    </string-array>
+   
+    <string-array name="dogalize_array">
+        <item>Profile</item>
+        <item>Initiate</item>
+        <item>My Games</item>
+        <item>Search</item>
+    </string-array>
+    <string-array name="profile_name_array">
+        <item>Andelica</item>
+        <item>Chanel Neuman</item>
+        <item>Charlie Maggy</item>
+        <item>EdmondoLee</item>
+        <item>Filippo</item>
+        <item>LaurettaGreece</item>
+        <item>NicolasQueber</item>
+    </string-array>
+
+    <integer-array name="profile_name_images_array">
+        <item>@drawable/ic_andelica</item>
+        <item>@drawable/ic_chanelneuman</item>
+        <item>@drawable/ic_charliemaggy</item>
+        <item>@drawable/ic_edmondolee</item>
+        <item>@drawable/ic_filippo</item>
+        <item>@drawable/ic_laurettagreece</item>
+        <item>@drawable/ic_nicolasqueber</item>
+    </integer-array>
+
+    <string-array name="map_drop_down_array">
+        <item>Area Dogs</item>
+        <item>Restaurants</item>
+        <item>Veterinary</item>
+        <item>Pet Stores</item>
+        <item>kennels</item>
+        <item>Friends</item>
+        <item>Check In</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <!-- Preferences KEYS -->
+    <string name="key_istablet">ISTABLET</string>
+    <string name="key_isAppFirstTime">APP_FIRST_TIME</string>
+    <string name="call_center_details">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel mi mollis, interdum velit et, laoreet nisl. Duis ullamcorper lacus vel pellentesque euismod. Morbi gravida ultricies nisi. Nunc quis sapien a ipsum iaculis dignissim. Duis tempor libero nunc, et bibendum nibh tristique tincidunt. Fusce sagittis dictum purus, et faucibus sapien blandit eu. Donec a ultrices tellus. Vestibulum nec ultrices tortor.\n\n
+
+Etiam eget augue sed ipsum malesuada aliquam vitae non purus. Sed sed feugiat sapien. Duis et pharetra turpis. Phasellus dapibus posuere dictum. Mauris id suscipit arcu. Nulla egestas mollis iaculis. Nullam blandit ipsum ut posuere tempor. In vehicula eros eget lorem pellentesque sollicitudin. Pellentesque commodo tellus id risus tincidunt feugiat. Cras mollis sit amet quam vitae ultrices.\n\n
+
+Vivamus ac est massa. Etiam quam mi, blandit non lectus imperdiet, tempor tincidunt dui. Nunc eu interdum risus. Cras cursus, lacus eu elementum mattis, tortor urna aliquet mi, suscipit mattis tortor tellus ac eros. Ut sit amet sapien a quam blandit cursus id vitae libero. Phasellus non placerat nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque laoreet varius feugiat. Nam venenatis leo eu turpis mollis ullamcorper. Curabitur tempor magna vitae felis lacinia, in molestie massa facilisis.</string>
+    <string name="commando_kennel_details">Commando kennels was established in 1986 and registered as a private limited company in 1989. it was the first such company in the doggy world. This led to many such firsts.\n\nOur list of achievements is proof enough of what commandos have achieved in a short duration of 20 years.
+In 1995, we shifted to our fully equipped training farm at the outskirts of Secunderabad. Ever since, the company has seen growth in various fields, ranging from dog security services to canine actors.</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="getvalue">Get Value</string>
+    <string name="selectedcountries">Selected Countries</string>
+
+</resources>
