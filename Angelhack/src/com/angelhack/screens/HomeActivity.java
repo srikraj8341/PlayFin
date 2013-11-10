@@ -179,10 +179,10 @@ public class HomeActivity extends ActionBarActivity implements
 		switch (position) {
 		case 0:
 			// if (mDogalize_Home_Fragment == null)
-			mMyGamesFragment = new MyGamesFragment();
-			fragment = mMyGamesFragment;
-			//mProfile_Fragment = new ProfileDetails_Fragment();
-			//fragment = mProfile_Fragment;
+			//mMyGamesFragment = new MyGamesFragment();
+			//fragment = mMyGamesFragment;
+			mProfile_Fragment = new ProfileDetails_Fragment();
+			fragment = mProfile_Fragment;
 			break;
 		case 1:
 			// if (mUser_profile_fragment == null)
@@ -194,10 +194,10 @@ public class HomeActivity extends ActionBarActivity implements
 			break;
 		case 2:
 			// if (mDogalizeFriendsFragment == null)
-			mProfile_Fragment = new ProfileDetails_Fragment();
-			fragment = mProfile_Fragment;
-			//mMyGamesFragment = new MyGamesFragment();
-			//fragment = mMyGamesFragment;
+			//mProfile_Fragment = new ProfileDetails_Fragment();
+			//fragment = mProfile_Fragment;
+			mMyGamesFragment = new MyGamesFragment();
+			fragment = mMyGamesFragment;
 
 			break;
 		case 3:
